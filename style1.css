@@ -1,0 +1,28 @@
+/* BACKGROUND COLORS */
+/* (1) color name */
+/* h2{
+    background-color: blue;
+} */
+/* (2) rgb color */
+/* h3{
+    background-color: rgb(100, 150, 105);
+} */
+/* (3) Hex code color */
+/* h4{
+    background-color: #ccee33;
+} */
+/* body background */
+/* body{
+    background-color: rgb(160, 157, 162);
+} */
+/* div background */
+/* div{
+    background-color: rgb(203, 6, 6);
+} */
+img{
+    opacity: 0.5;
+}
+#div1{
+    background-color: green;
+    opacity: 0.5;
+}
